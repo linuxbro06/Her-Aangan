@@ -1,0 +1,22 @@
+.container{
+max-width: 1500px;
+margin: auto;
+/* margin-top: 0px; */
+padding: 50px;
+background-color: rgb(252, 202, 202);
+display: flex;
+}
+
+
+
+.form-fill{
+    margin-top: 30px;
+    flex: 1;
+}
+
+.imggirl{
+    margin-bottom: 100px;
+    border-radius: 200px;
+    padding: 50px;
+    flex:1;
+}
